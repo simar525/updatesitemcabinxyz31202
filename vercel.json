@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://itemcabinecommerce.webflow.io/$1"
+ }
+  ]
+}
